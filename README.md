@@ -7,16 +7,35 @@
 ## 🚀 About Me
 Test Automation Engineer | SDET | QA Tester | Continuous Learning
 
-## 💼 Skills
-**Java | Selenium | TestNG | Cucumber | Maven | Jenkins | Git-GitHub | JIRA | API Testing | Selenium Grid**
+---
+
+## 🛠️ Languages & Tools  
+
+<div align="center">
+
+### 💻 Core Stack
+<img src="https://skillicons.dev/icons?i=java,selenium&theme=dark" />
+
+### ⚙️ Test Frameworks & Build Tools
+<img src="https://skillicons.dev/icons?i=maven&theme=dark" />
+<img src="https://img.shields.io/badge/TestNG-%23E33332.svg?style=for-the-badge&logo=testng&logoColor=white" />
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+
+### 🔄 CI/CD & Version Control
+<img src="https://skillicons.dev/icons?i=jenkins,git,github&theme=dark" />
+
+### 🧪 API & Database Testing
+<img src="https://skillicons.dev/icons?i=postman,mysql&theme=dark" />
+
+### 🧰 Test Management & Collaboration
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
 ---
 
-## 🛠️ Languages and Tools:
+### 🚀 Automation Ecosystem
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=UI+Testing+%7C+API+Testing;Cross+Browser+Testing;Parallel+Execution+%7C+Grid;CI%2FCD+Integration;Clean+Code+%7C+Scalable+Frameworks" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,jenkins,git,github,maven,postman,mysql&theme=dark" alt="skills" />
-</p>
+</div>
 
 ---
 
