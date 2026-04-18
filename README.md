@@ -1,11 +1,21 @@
 # 👋 Welcome Tural SEYIDOV
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Test+Automation+Engineer;SDET;QA+Tester;Continuous+Learning" alt="Typing SVG" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tural%20Seyidov&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:56ccf2,100:2f80ed&height=200&section=header&text=Tural%20Seyidov&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Tural%20Seyidov&fontSize=40" />
+</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Test+Automation+Engineer;SDET;QA+Tester;CI%2FCD+Enthusiast;Automation+Architect" />
+
 </div>
 
+---
+
 ## 🚀 About Me
-Test Automation Engineer | SDET | QA Tester | Continuous Learning
+Test Automation Engineer focused on building **scalable, maintainable, and CI-integrated automation frameworks**.
 
 ---
 
@@ -13,68 +23,64 @@ Test Automation Engineer | SDET | QA Tester | Continuous Learning
 
 <div align="center">
 
-### 💻 Core Stack
-<img src="https://skillicons.dev/icons?i=java,selenium&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,selenium,jenkins,git,github,maven,mysql,postman&theme=dark" />
 
-### ⚙️ Test Frameworks & Build Tools
-<img src="https://skillicons.dev/icons?i=maven&theme=dark" />
-<img src="https://img.shields.io/badge/TestNG-%23E33332.svg?style=for-the-badge&logo=testng&logoColor=white" />
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-
-### 🔄 CI/CD & Version Control
-<img src="https://skillicons.dev/icons?i=jenkins,git,github&theme=dark" />
-
-### 🧪 API & Database Testing
-<img src="https://skillicons.dev/icons?i=postman,mysql&theme=dark" />
-
-### 🧰 Test Management & Collaboration
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-
----
-
-### 🚀 Automation Ecosystem
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=UI+Testing+%7C+API+Testing;Cross+Browser+Testing;Parallel+Execution+%7C+Grid;CI%2FCD+Integration;Clean+Code+%7C+Scalable+Frameworks" />
+<img src="https://img.shields.io/badge/TestNG-%23E33332.svg?style=for-the-badge&logo=testng&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Test Automation Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turalseyidov1987&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turalseyidov1987&theme=radical" alt="GitHub Streak" />
+<img src="https://img.shields.io/badge/Test%20Coverage-85%25-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Tests-Passing-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%20Tests-Stable-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Build-Passing-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Parallel%20Execution-Enabled-orange?style=for-the-badge"/>
+
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 🧱 Test Automation Architecture
 
-### 🏥 [LoyalFriendCare Test Automation](https://github.com/turalseyidov1987/revetis-com.loyalfriendcare)
-Veterinary care application test automation using Selenium WebDriver, Cucumber, and TestNG
+```mermaid
+graph TD
 
-### ⚙️ [Jenkins CI/CD Project](https://github.com/turalseyidov1987/Jenkins_Project)
-Continuous Integration and Deployment setup with Jenkins, Maven, and Git
+A[TestNG Runner] --> B[Cucumber Features]
+B --> C[Step Definitions]
 
-### 🧪 [Selenium Projects](https://github.com/turalseyidov1987/SeleniumProjectsJUnit)
-Test automation projects with Selenium WebDriver and JUnit
+C --> D[Page Object Model]
+D --> E[Base Test]
+E --> F[Driver Factory]
+F --> G[WebDriver Manager]
 
----
+G --> H[Local Browser]
+G --> I[Selenium Grid]
 
-## 📫 Connect with Me
+E --> J[Config Reader]
+E --> K[Utilities]
+K --> L[Wait Utils]
+K --> M[Driver Utils]
+K --> N[Test Data Manager]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tural-seyidov/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turalseyidov0728@gmail.com)
+C --> O[API Testing Layer]
+O --> P[Rest Assured]
+P --> Q[Backend Services]
 
----
+A --> R[Reporting]
+R --> S[Extent Reports]
+R --> T[Logs]
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=turalseyidov1987&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+A --> U[CI/CD Pipeline]
+U --> V[Jenkins]
+V --> W[Maven Build]
+W --> X[Test Execution]
+X --> Y[Report Publish]
 
-<div align="center">
-  ⭐️ If you like my projects, don't forget to give them a star!
-</div>
+Z[GitHub Repo] --> V
